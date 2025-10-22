@@ -70,7 +70,7 @@ Premiere Pro
 <div align="center">
 
 
-<a href="https://sebkucera.dev/#contact"> All connections <\a>
+<a href="https://sebkucera.dev/#contact"> All connections 
 
 </div>
 
