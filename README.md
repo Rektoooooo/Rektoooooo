@@ -80,6 +80,5 @@ Premiere Pro
 
 💭 "The best way to predict the future is to build it"
 
-![Visitor Count](https://profile-counter.glitch.me/Rektoooooo/count.svg)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Rektoooooo&color=blueviolet&style=flat-square&label=Profile+Views)                                
 </div>
