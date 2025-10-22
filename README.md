@@ -17,16 +17,6 @@ An intelligent workout tracker that learns from your training
 
 Gymly combines powerful workout tracking with AI-driven insights to help you optimize your fitness journey. Built entirely in SwiftUI with modern iOS technologies.
 
-✨ Key Features
-- 📊 Smart Progress Tracking - Radar charts visualizing muscle group balance
-- 🤖 AI Workout Summaries - Personalized insights powered by Apple Intelligence
-- 📅 Flexible Workout Plans - Custom splits with exercise templates
-- 💪 PR Detection - Automatic personal record tracking
-- ☁️ iCloud Sync - Seamless data sync across your devices
-- 🎨 Dynamic Themes - 6 customizable accent colors with adaptive app icons
-- 📈 Volume Analytics - Detailed training volume calculations
-- 🔥 Streak Tracking - Stay motivated with workout consistency monitoring
-
 🛠️ Tech Stack
 - Frontend: SwiftUI, Combine
 - Data: SwiftData, CloudKit
@@ -34,12 +24,6 @@ Gymly combines powerful workout tracking with AI-driven insights to help you opt
 - Integrations: HealthKit, UIKit interop
 - Architecture: MVVM, Reactive patterns
 
-🎯 Recent Achievements
-- Fixed complex muscle group graph calculations (removed accumulation bugs)
-- Implemented cache invalidation for real-time data updates
-- Built streaming AI summary generation with live progress
-- Created custom radar chart visualization from scratch
-- Optimized workout duration tracking (timestamp management)
 ⸻
 💻 Tech Stack
 
@@ -60,7 +44,6 @@ Tools & Platforms
 Xcode 
 VS Code 
 Git 
-Figma
 
 Design Suite
 Photoshop 
@@ -87,8 +70,7 @@ Premiere Pro
 <div align="center">
 
 
-Discord 
-Email
+<a href="https://sebkucera.dev/#contact"> All connections <\a>
 
 </div>
 
@@ -98,6 +80,6 @@ Email
 
 💭 "The best way to predict the future is to build it"
 
-Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Rektoooooo/count.svg)
 
 </div>
