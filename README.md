@@ -2,12 +2,12 @@ Hey there! 👋 I'm Seb
 
 Full-Stack Developer & High School Student based in Prague 🇨🇿
 
-I'm passionate about building innovative mobile apps, learning new technologies, and creating solutions that make a real impact. Currently working on Gymly - an AI-powered workout tracking app for iOS.
+I'm passionate about building innovative mobile apps, learning new technologies, and creating solutions that make a real impact. Currently working on ShadowLift - an AI-powered workout tracking app for iOS.
 ⸻
 🚀 Featured Project: Gymly
 
 <div align="center">
-  <img src="https://img.shields.io/badge/iOS-17+-blue?style=for-the-badge&logo=apple" alt="iOS 17+"/>
+  <img src="https://img.shields.io/badge/iOS-17+-blue?style=for-the-badge&logo=apple" alt="iOS 26+"/>
   <img src="https://img.shields.io/badge/SwiftUI-5.0-orange?style=for-the-badge&logo=swift" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/AI_Powered-Apple_Intelligence-purple?style=for-the-badge" alt="AI Powered"/>
 </div>
