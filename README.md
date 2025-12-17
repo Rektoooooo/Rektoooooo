@@ -4,7 +4,8 @@ Full-Stack Developer & High School Student based in Prague 🇨🇿
 
 I'm passionate about building innovative mobile apps, learning new technologies, and creating solutions that make a real impact. Currently working on ShadowLift - an AI-powered workout tracking app for iOS.
 ⸻
-🚀 Featured Project: Gymly
+🚀 Featured Project: 
+<a href="https://shadowlift.app/"> ShadowLift
 
 <div align="center">
   <img src="https://img.shields.io/badge/iOS-17+-blue?style=for-the-badge&logo=apple" alt="iOS 26+"/>
