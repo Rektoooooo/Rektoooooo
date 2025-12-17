@@ -16,7 +16,7 @@ I'm passionate about building innovative mobile apps, learning new technologies,
 
 An intelligent workout tracker that learns from your training
 
-Gymly combines powerful workout tracking with AI-driven insights to help you optimize your fitness journey. Built entirely in SwiftUI with modern iOS technologies.
+ShadowLift combines powerful workout tracking with AI-driven insights to help you optimize your fitness journey. Built entirely in SwiftUI with modern iOS technologies.
 
 🛠️ Tech Stack
 - Frontend: SwiftUI, Combine
@@ -60,7 +60,7 @@ Premiere Pro
 ⸻
 🎯 What I'm Up To
 
-- 🔨 Building Gymly - taking workout tracking to the next level
+- 🔨 Building ShadowLift - taking workout tracking to the next level
 - 📚 Learning advanced SwiftUI patterns and iOS architecture
 - 🤖 Exploring Apple Intelligence and on-device ML
 - 🎨 Experimenting with modern UI/UX design patterns
