@@ -8,7 +8,7 @@ I'm passionate about building innovative mobile apps, learning new technologies,
 <a href="https://shadowlift.app/"> ShadowLift
 
 <div align="center">
-  <img src="https://img.shields.io/badge/iOS-17+-blue?style=for-the-badge&logo=apple" alt="iOS 26+"/>
+  <img src="https://img.shields.io/badge/iOS-26+-blue?style=for-the-badge&logo=apple" alt="iOS 26+"/>
   <img src="https://img.shields.io/badge/SwiftUI-5.0-orange?style=for-the-badge&logo=swift" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/AI_Powered-Cloude_Code-orange?style=for-the-badge" alt="AI Powered"/>
 </div>
