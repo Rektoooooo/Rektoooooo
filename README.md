@@ -15,8 +15,7 @@
 
 I build polished iOS apps with SwiftUI and integrate AI where it adds real value. Focused on clean architecture, great UX, and shipping products people actually want to use.
 
-- Building **ShadowLift** — an AI-powered workout tracker currently in TestFlight beta
-- Published [**Ping-Pong '70**](https://apps.apple.com/app/ping-pong-70/id6504648498) on the App Store
+- Published [**ShadowLift**](https://shadowlift.app), **HabitFlow**, and **MealPrepAI** on the App Store
 - Created [**CC-Settings**](https://github.com/Rektoooooo/CC-Settings) — a native macOS settings app for Claude Code (most starred repo)
 - Exploring **Apple Intelligence** and on-device ML with FoundationModels
 
