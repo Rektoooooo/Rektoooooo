@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 107.4 44" width="107.4" height="44" role="img" aria-label="Next.js">
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="98.4" height="35" rx="17.5" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <circle cx="19" cy="18.0" r="5" fill="#1f2328"/>
+  <text x="32" y="23.5" font-size="15" font-weight="500" fill="#1f2328">Next.js</text>
+</svg>

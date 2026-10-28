@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -4 132.9 44" width="132.9" height="44" role="img" aria-label="Supabase">
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }</style>
+  <rect x="0.5" y="0.5" width="123.9" height="35" rx="17.5" fill="#151b23" stroke="#3d444d"/>
+  <circle cx="19" cy="18.0" r="5" fill="#3ecf8e"/>
+  <text x="32" y="23.5" font-size="15" font-weight="500" fill="#f0f6fc">Supabase</text>
+</svg>

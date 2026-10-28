@@ -1,148 +1,33 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Sebastian Kucera, iOS developer in Prague. I build iOS apps with SwiftUI and tools for the Mac." src="assets/header-light.svg" width="100%">
+</picture>
 
-# Sebastian Kucera
+### Highlights
 
-**iOS Developer | AI Enthusiast | Prague, Czech Republic**
+<!-- Keep each row on one line: whitespace between two 50% cards pushes the second one down. -->
+<p><a href="https://drivepass.cz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/drivepass-dark.svg"><img alt="DrivePass: playful prep for the Czech driving test, plus a platform for driving schools" src="assets/cards/drivepass-light.svg" width="50%"></picture></a><a href="https://github.com/Rektoooooo/bow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/bow-dark.svg"><img alt="Bow: an open-source browser in the spirit of Arc, for macOS" src="assets/cards/bow-light.svg" width="50%"></picture></a><br>
+<a href="https://github.com/Rektoooooo/CC-Settings"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/cc-settings-dark.svg"><img alt="CC Settings: a native Mac app for your Claude Code settings" src="assets/cards/cc-settings-light.svg" width="50%"></picture></a><a href="https://github.com/Rektoooooo/StayAwake"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/stayawake-dark.svg"><img alt="StayAwake: keeps your Mac awake with the lid closed while Claude Code is working" src="assets/cards/stayawake-light.svg" width="50%"></picture></a></p>
 
-[![Website](https://img.shields.io/badge/sebkucera.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://sebkucera.dev)
-[![Email](https://img.shields.io/badge/Contact_Me-0A84FF?style=for-the-badge&logo=apple&logoColor=white)](mailto:sebastian.kucera@icloud.com)
+### More projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rektoooooo&color=6C63FF&style=flat-square&label=Profile+Views)
+<p><a href="https://apps.apple.com/app/shadowlift/id6743451583"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/shadowlift-dark.svg"><img alt="ShadowLift" src="assets/apps/shadowlift-light.svg" width="86"></picture></a>&nbsp;<a href="https://apps.apple.com/app/myhabitowl/id6757938878"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/myhabitowl-dark.svg"><img alt="MyHabitOwl" src="assets/apps/myhabitowl-light.svg" width="86"></picture></a>&nbsp;<a href="https://github.com/Rektoooooo/MealPrepAI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/mealprepai-dark.svg"><img alt="MealPrepAI" src="assets/apps/mealprepai-light.svg" width="86"></picture></a>&nbsp;<a href="https://github.com/Rektoooooo/mycartally-ios"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/mycartally-dark.svg"><img alt="MyCarTally" src="assets/apps/mycartally-light.svg" width="86"></picture></a>&nbsp;<a href="https://github.com/Rektoooooo/computational-redstone"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps/redstone-dark.svg"><img alt="Computational Redstone" src="assets/apps/redstone-light.svg" width="86"></picture></a></p>
 
-</div>
+### Stack
 
----
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/swift-dark.svg"><img alt="Swift" src="assets/stack/swift-light.svg" width="79"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/swiftui-dark.svg"><img alt="SwiftUI" src="assets/stack/swiftui-light.svg" width="93"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/swiftdata-dark.svg"><img alt="SwiftData" src="assets/stack/swiftdata-light.svg" width="109"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cloudkit-dark.svg"><img alt="CloudKit" src="assets/stack/cloudkit-light.svg" width="99"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/healthkit-dark.svg"><img alt="HealthKit" src="assets/stack/healthkit-light.svg" width="104"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/widgetkit-dark.svg"><img alt="WidgetKit" src="assets/stack/widgetkit-light.svg" width="109"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript-dark.svg"><img alt="TypeScript" src="assets/stack/typescript-light.svg" width="118"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-dark.svg"><img alt="React" src="assets/stack/react-light.svg" width="82"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/next-js-dark.svg"><img alt="Next.js" src="assets/stack/next-js-light.svg" width="88"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/electron-dark.svg"><img alt="Electron" src="assets/stack/electron-light.svg" width="98"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/supabase-dark.svg"><img alt="Supabase" src="assets/stack/supabase-light.svg" width="109"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/claude-code-dark.svg"><img alt="Claude Code" src="assets/stack/claude-code-light.svg" width="129"></picture></p>
 
-I build polished iOS apps with SwiftUI and integrate AI where it adds real value. Focused on clean architecture, great UX, and shipping products people actually want to use.
+<br>
 
-- Published [**ShadowLift**](https://shadowlift.app), **HabitFlow**, and **MealPrepAI** on the App Store
-- Created [**CC-Settings**](https://github.com/Rektoooooo/CC-Settings) — a native macOS settings app for Claude Code (most starred repo)
-- Exploring **Apple Intelligence** and on-device ML with FoundationModels
-
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [ShadowLift](https://shadowlift.app)
-AI-powered workout tracker with smart training insights, HealthKit sync, progress photos, and streak analytics. ~20K lines of pure SwiftUI — zero external dependencies.
-
-`SwiftUI` `SwiftData` `CloudKit` `HealthKit` `Apple Intelligence` `StoreKit 2`
-
-</td>
-<td width="50%" valign="top">
-
-#### [CC-Settings](https://github.com/Rektoooooo/CC-Settings)
-Native macOS app for managing Claude Code configuration — settings, permissions, hooks, MCP servers, session history, and usage stats. Built with Swift 6.
-
-`SwiftUI` `macOS 26` `Swift 6` `AppKit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [MealPrepAI](https://github.com/Rektoooooo/MealPrepAI)
-AI-powered meal planning with personalized recipes, nutrition tracking, grocery lists, and HealthKit integration. Uses Claude API via Firebase Cloud Functions.
-
-`SwiftUI` `SwiftData` `Firebase` `Claude API` `StoreKit 2`
-
-</td>
-<td width="50%" valign="top">
-
-#### [HabitFlow](https://github.com/Rektoooooo/HabitFlow)
-Full-featured habit tracker with Apple Watch companion, home screen & lock screen widgets, focus sessions, and AI-powered weekly insights.
-
-`SwiftUI` `SwiftData` `WidgetKit` `WatchConnectivity` `CloudKit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [ApplyTailor](https://github.com/Rektoooooo/applytailor)
-AI-tailored job applications — generates custom CV bullets, cover letters, and follow-up emails from job descriptions. Full-stack web app with Stripe billing.
-
-`React` `Supabase` `Claude API` `Stripe` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-#### [MyCarTally](https://github.com/Rektoooooo/mycartally-ios)
-Car expense tracking with AI-powered receipt scanning via the Vision framework. Tracks fuel, maintenance, insurance, and generates spending reports.
-
-`SwiftUI` `SwiftData` `Vision` `CloudKit` `StoreKit 2`
-
-</td>
-</tr>
-</table>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Apple Ecosystem**
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-3693F3?style=for-the-badge&logo=icloud&logoColor=white)
-![HealthKit](https://img.shields.io/badge/HealthKit-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-30D158?style=for-the-badge&logo=apple&logoColor=white)
-![Apple Intelligence](https://img.shields.io/badge/Apple_Intelligence-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Tools**
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-### GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rektoooooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rektoooooo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rektoooooo&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rektoooooo&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" />
-</div>
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-[![Website](https://img.shields.io/badge/sebkucera.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://sebkucera.dev)
-
-</div>
+<p align="center"><sub>Say hi at <a href="mailto:sebastian.kucera@icloud.com">sebastian.kucera@icloud.com</a></sub></p>
